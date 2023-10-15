@@ -71,3 +71,6 @@ def transcribe_audio_url():
   "url": "https://static.wikia.nocookie.net/valorant/images/2/22/JettPick.mp3/revision/latest"
 }
 '''
+
+if __name__ == '__main__':
+    app.run(debug=True)
